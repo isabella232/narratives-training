@@ -1,0 +1,7013 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856614 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":1,
+    "title":"France: Why the French Don't Suck",
+    "city_or_area":"Paris",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -21.817439,64.126521 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":2,
+    "title":"Iceland: Hello Darkness My Old Friend",
+    "city_or_area":"Reykjav√≠k",
+    "country":"Iceland",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.970138,40.850933 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":3,
+    "title":"New Jersey",
+    "city_or_area":"Fort Lee",
+    "country":"United States",
+    "state":"NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.106247,39.757620 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":3,
+    "title":"New Jersey",
+    "city_or_area":"Barnegat Light",
+    "country":"United States",
+    "state":"NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.422927,39.364283 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":3,
+    "title":"New Jersey",
+    "city_or_area":"Atlantic City",
+    "country":"United States",
+    "state":"NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.119620,39.925946 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":3,
+    "title":"New Jersey",
+    "city_or_area":"Camden",
+    "country":"United States",
+    "state":"NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.370289,39.746634 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":3,
+    "title":"New Jersey",
+    "city_or_area":"Warren Grove",
+    "country":"United States",
+    "state":"NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.012082,40.220391 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":3,
+    "title":"New Jersey",
+    "city_or_area":"Asbury Park",
+    "country":"United States",
+    "state":"NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.834160,21.027764 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":4,
+    "title":"Vietnam: The Island of Mr. Sang",
+    "city_or_area":"Hanoi",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.008989,20.690134 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":4,
+    "title":"Vietnam: The Island of Mr. Sang",
+    "city_or_area":"Mai Ch√¢u",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.986038,20.927450 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":4,
+    "title":"Vietnam: The Island of Mr. Sang",
+    "city_or_area":"Tu·∫ßn Ch√¢u",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.686855,3.139003 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":5,
+    "title":"Malaysia: Into the Jungle",
+    "city_or_area":"Kuala Lumpur",
+    "country":"Malaysia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.361267,38.115688 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":6,
+    "title":"Sicily",
+    "city_or_area":"Parlermo, Sicily",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.537202,38.017618 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":6,
+    "title":"Sicily",
+    "city_or_area":"Trapani, Sicily",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.585982,37.309407 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":6,
+    "title":"Sicily",
+    "city_or_area":"Agrigento, Sicily",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.285313,37.851637 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":6,
+    "title":"Sicily",
+    "city_or_area":"Taormina, Sicily",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.083030,37.507877 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":6,
+    "title":"Sicily",
+    "city_or_area":"Catania, Sicily",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.139830,36.169941 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":7,
+    "title":"Las Vegas",
+    "city_or_area":"Las Vegas",
+    "country":"United States",
+    "state":"Nevada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.974973,39.627012 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":8,
+    "title":"Uzbekistan",
+    "city_or_area":"Samarkand",
+    "country":"Uzbekistan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.240073,41.299496 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":8,
+    "title":"Uzbekistan",
+    "city_or_area":"Tashkent",
+    "country":"Uzbekistan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.636225,-43.532054 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":1,
+    "ep":9,
+    "title":"New Zealand: Down Under the Down Under",
+    "city_or_area":"Christchurch",
+    "country":"New Zealand",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.502165,34.693738 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":1,
+    "title":"Asia Special: China & Japan",
+    "city_or_area":"Osaka",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.089862,36.074885 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":1,
+    "title":"Asia Special: China & Japan",
+    "city_or_area":"Kisoji",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.939770,34.341574 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":1,
+    "title":"Asia Special: China & Japan",
+    "city_or_area":"Xi‚Äôan",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.407396,39.904200 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":1,
+    "title":"Asia Special: China & Japan",
+    "city_or_area":"Beijing",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.066801,30.572815 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":1,
+    "title":"Asia Special: China & Japan",
+    "city_or_area":"Chengdu",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.191790,25.761680 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":2,
+    "title":"South Florida",
+    "city_or_area":"Miami",
+    "country":"United States",
+    "state":"Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.779987,24.555059 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":2,
+    "title":"South Florida",
+    "city_or_area":"Key West",
+    "country":"United States",
+    "state":"Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.042754,-12.046373 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":3,
+    "title":"Peru",
+    "city_or_area":"Lima",
+    "country":"Peru",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.193276,-12.582529 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":3,
+    "title":"Peru",
+    "city_or_area":"Tambopata",
+    "country":"Peru",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.967463,-13.531950 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":3,
+    "title":"Peru",
+    "city_or_area":"Cusco",
+    "country":"Peru",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.544963,-13.163141 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":3,
+    "title":"Peru",
+    "city_or_area":"Machu Picchu",
+    "country":"Peru",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567256,45.501689 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":4,
+    "title":"Peru",
+    "city_or_area":"Montreal, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.160204,45.432629 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":4,
+    "title":"Quebec",
+    "city_or_area":"Marieville, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.282199,45.483074 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":4,
+    "title":"Quebec",
+    "city_or_area":"Rigaud, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.105103,58.455121 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":4,
+    "title":"Quebec",
+    "city_or_area":"Inukjuak, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.068581,59.329323 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":5,
+    "title":"Sweden",
+    "city_or_area":"Stockholm",
+    "country":"Sweden",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.166000,18.111905 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Cayey, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.614062,18.011077 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Ponce, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Bayam, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.105735,18.465539 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"San Juan, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.024206,18.470386 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Isabela, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.397314,18.446922 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Vega Baja, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.035249,18.238799 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Caguas, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.502165,34.693738 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":7,
+    "title":"Japan",
+    "city_or_area":"Osaka",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.895867,29.370886 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Del Rio",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.820305,26.379787 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Rio Grande",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.316113,25.686614 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Monterrey",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.836275,24.266940 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Tamaulipas",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.706829,27.058676 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Coahu√≠la",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.480324,27.530567 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Laredo",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.499521,28.709143 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":8,
+    "title":"US/Mexico Border",
+    "city_or_area":"Eagle Pass",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.712479,24.585445 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":9,
+    "title":"India (Rajasthan)",
+    "city_or_area":"Udaipur",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.024309,26.238947 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":9,
+    "title":"India (Rajasthan)",
+    "city_or_area":"Jodhpur",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.908344,26.915749 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":9,
+    "title":"India (Rajasthan)",
+    "city_or_area":"Jaisalmer",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.363895,22.572646 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":10,
+    "title":"India (Kolkata/Mumbai)",
+    "city_or_area":"Kolkata",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.877656,19.075984 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":10,
+    "title":"India (Kolkata/Mumbai)",
+    "city_or_area":"Mumbai",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.977969,37.566535 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":11,
+    "title":"Korea",
+    "city_or_area":"Seoul",
+    "country":"South Korea",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.188916,-8.409518 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":12,
+    "title":"Indonesia",
+    "city_or_area":"Bali",
+    "country":"Indonesia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.865039,-6.175110 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":12,
+    "title":"Indonesia",
+    "city_or_area":"Jakarta",
+    "country":"Indonesia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.173403,41.385064 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":13,
+    "title":"Special: Decoding Ferran Adria",
+    "city_or_area":"Barcelona",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.501777,33.893791 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":2,
+    "ep":14,
+    "title":"Special: Anthony Bourdain in Beirut",
+    "city_or_area":"Beirut",
+    "country":"Lebanon",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.260310,53.349805 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":1,
+    "title":"Ireland",
+    "city_or_area":"Dublin",
+    "country":"Ireland",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.930120,54.597285 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":1,
+    "title":"Ireland",
+    "city_or_area":"Belfast",
+    "country":"Ireland",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.186964,5.603717 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":2,
+    "title":"Ghana",
+    "city_or_area":"Accra",
+    "country":"Ghana",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.520862,6.747044 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":2,
+    "title":"Ghana",
+    "city_or_area":"Ashanti",
+    "country":"Ghana",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.597921,5.020827 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":2,
+    "title":"Ghana",
+    "city_or_area":"Nzulezo",
+    "country":"Ghana",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.000000,9.500000 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":2,
+    "title":"Ghana",
+    "city_or_area":"Mole Game Reserve",
+    "country":"Ghana",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.462624,6.831355 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":2,
+    "title":"Ghana",
+    "city_or_area":"Adanwomase",
+    "country":"Ghana",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.590404,4.988470 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":2,
+    "title":"Ghana",
+    "city_or_area":"Beyin",
+    "country":"Ghana",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.658719,45.512231 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":3,
+    "title":"Pacific Northwest",
+    "city_or_area":"Portland",
+    "country":"Oregon",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.332071,47.606209 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":3,
+    "title":"Pacific Northwest",
+    "city_or_area":"Seattle",
+    "country":"Washington",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.100707,47.215094 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":3,
+    "title":"Pacific Northwest",
+    "city_or_area":"Shelton",
+    "country":"Washington",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.505751,-22.958408 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":4,
+    "title":"Namibia",
+    "city_or_area":"Walvis Bay",
+    "country":"Namibia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.065755,-22.560881 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":4,
+    "title":"Namibia",
+    "city_or_area":"Windhoek",
+    "country":"Namibia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.059849,-22.521134 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":4,
+    "title":"Namibia",
+    "city_or_area":"Katutura",
+    "country":"Namibia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.101193,-22.637785 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":4,
+    "title":"Namibia",
+    "city_or_area":"Khomas",
+    "country":"Namibia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.617300,55.755826 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":5,
+    "title":"Russia",
+    "city_or_area":"Moscow",
+    "country":"Russia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.243685,34.052234 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":6,
+    "title":"Los Angeles",
+    "city_or_area":"Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.473702,31.230390 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":7,
+    "title":"From Shanghai to Shangri-la",
+    "city_or_area":"Shanghai",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.267638,25.606486 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":7,
+    "title":"From Shanghai to Shangri-la",
+    "city_or_area":"Dali",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.227750,26.855047 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":7,
+    "title":"From Shanghai to Shangri-la",
+    "city_or_area":"Lijiang",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.017938,36.806669 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":7,
+    "title":"From Shanghai to Shangri-la",
+    "city_or_area":"Zhangdian",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005973,40.712775 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":8,
+    "title":"New York City",
+    "city_or_area":"New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.633309,-23.550520 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":9,
+    "title":"Brazil",
+    "city_or_area":"S√£o Paulo",
+    "country":"Brazil",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.426042,-17.650920 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":10,
+    "title":"French Polynesia",
+    "city_or_area":"Tahiti",
+    "country":"French Polynesia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -138.719142,-18.615949 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":10,
+    "title":"French Polynesia",
+    "city_or_area":"Tuamotu Archipelago",
+    "country":"French Polynesia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.081712,-9.781216 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":10,
+    "title":"French Polynesia",
+    "city_or_area":"Marquesas Islands",
+    "country":"French Polynesia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.694361,41.499320 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":11,
+    "title":"Cleveland",
+    "city_or_area":"Cleveland",
+    "country":"United States",
+    "state":"Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":12,
+    "title":"Hong Kong",
+    "city_or_area":"Hong Kong",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.381559,-34.603684 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":13,
+    "title":"Argentina",
+    "city_or_area":"Buenos Aires",
+    "country":"Argentina",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.931051,32.776475 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":14,
+    "title":"South Carolina",
+    "city_or_area":"Charleston",
+    "country":"United States",
+    "state":"South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.248621,43.771051 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":15,
+    "title":"Tuscany",
+    "city_or_area":"Tuscany",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.454011,41.394817 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":3,
+    "ep":16,
+    "title":"Holiday Special",
+    "city_or_area":"Danbury",
+    "country":"United States",
+    "state":"Connecticut"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":1,
+    "title":"Singapore",
+    "city_or_area":"Singapore",
+    "country":"Singapore",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.404954,52.520007 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":2,
+    "title":"Berlin",
+    "city_or_area":"Berlin",
+    "country":"Germany",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.120738,49.282729 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":3,
+    "title":"Vancouver, BC",
+    "city_or_area":"Vancouver, British Columbia",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.809269,35.240117 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":4,
+    "title":"Greek Islands",
+    "city_or_area":"Crete",
+    "country":"Greece",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.899876,37.787033 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":4,
+    "title":"Greek Islands",
+    "city_or_area":"Zakynthos",
+    "country":"Greece",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.071532,29.951066 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":5,
+    "title":"New Orleans",
+    "city_or_area":"New Orleans",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":6,
+    "title":"London/Edinburgh",
+    "city_or_area":"London",
+    "country":"England, United Kingdom",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.188267,55.953252 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":6,
+    "title":"London/Edinburgh",
+    "city_or_area":"Edinburgh",
+    "country":"Scotland, United Kingdom",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.809904,18.017874 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":7,
+    "title":"Jamaica",
+    "city_or_area":"Kingston",
+    "country":"Jamaica",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.102538,44.426767 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":8,
+    "title":"Romania",
+    "city_or_area":"Bucharest",
+    "country":"Romania",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.601198,45.657975 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":8,
+    "title":"Romania",
+    "city_or_area":"Bra»ôov",
+    "country":"Romania",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.858333,21.306944 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":9,
+    "title":"Hawaii",
+    "city_or_area":"Honolulu",
+    "country":"United States",
+    "state":"Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.071598,21.561657 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":9,
+    "title":"Hawaii",
+    "city_or_area":"North Shore, O'ahu",
+    "country":"United States",
+    "state":"Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.056896,21.335391 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":9,
+    "title":"Hawaii",
+    "city_or_area":"Kapolei, O'ahu",
+    "country":"United States",
+    "state":"Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.469167,21.906667 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":9,
+    "title":"Hawaii",
+    "city_or_area":"Koloa",
+    "country":"United States",
+    "state":"Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.971249,40.783060 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":10,
+    "title":"Into the Fire NY",
+    "city_or_area":"Manhattan, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.633104,17.975706 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":11,
+    "title":"Laos",
+    "city_or_area":"Vientiane",
+    "country":"Laos",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.581212,6.244203 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":12,
+    "title":"Colombia",
+    "city_or_area":"Medell√≠n",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.479426,10.391049 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":12,
+    "title":"Colombia",
+    "city_or_area":"Cartagena",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.192505,21.485811 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":13,
+    "title":"Saudi Arabia",
+    "city_or_area":"Jeddah",
+    "country":"Saudi Arabia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.164531,-34.901113 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":14,
+    "title":"Uruguay",
+    "city_or_area":"Montevideo",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.543036,-34.593287 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":14,
+    "title":"Uruguay",
+    "city_or_area":"Garz√≥n",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.237146,-34.374324 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":14,
+    "title":"Uruguay",
+    "city_or_area":"Lavalleja",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.950171,-34.905408 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":14,
+    "title":"Uruguay",
+    "city_or_area":"Maldonado",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.645146,-34.835915 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":14,
+    "title":"Uruguay",
+    "city_or_area":"Jose Ignacio",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.794941,-34.402302 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":14,
+    "title":"Uruguay",
+    "city_or_area":"Cabo Polonio",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.831297,35.221997 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Amarillo",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.215562,33.720577 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Indio",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.318640,36.207241 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Abiquiu",
+    "country":"United States",
+    "state":"New Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.993702,31.854251 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Green Valley",
+    "country":"United States",
+    "state":"Arizona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.843412,33.328618 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Salton Sea",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.518876,33.240037 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Niland",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.205006,31.506000 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Woodway",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.153074,32.665357 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Hatch",
+    "country":"United States",
+    "state":"New Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.074037,33.448377 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Phoenix",
+    "country":"United States",
+    "state":"Arizona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.545292,33.830296 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Palm Springs",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.729715,33.350867 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Bombay Beach",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.146670,31.549333 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":15,
+    "title":"U.S. Southwest",
+    "city_or_area":"Waco",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691706,35.689487 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":16,
+    "title":"Tokyo",
+    "city_or_area":"Tokyo",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.520862,41.591159 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":17,
+    "title":"Spain",
+    "city_or_area":"Catalonia",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.981231,43.318334 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":17,
+    "title":"Spain",
+    "city_or_area":"San Sebastian",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.173403,41.385064 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":17,
+    "title":"Spain",
+    "city_or_area":"Barcelona",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.618927,42.989625 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":17,
+    "title":"Spain",
+    "city_or_area":"Basque Country",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.219527,30.063678 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":18,
+    "title":"Egypt",
+    "city_or_area":"Seds",
+    "country":"Egypt",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.235712,30.044420 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":18,
+    "title":"Egypt",
+    "city_or_area":"Cairo",
+    "country":"Egypt",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.639636,25.687243 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":18,
+    "title":"Egypt",
+    "city_or_area":"Luxor",
+    "country":"Egypt",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.971249,40.783060 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":19,
+    "title":"So Long, Summer",
+    "city_or_area":"Manhattan, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.971249,40.783060 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":4,
+    "ep":20,
+    "title":"Special: At the Table with Anthony Bourdain",
+    "city_or_area":"Manhattan, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.206273,19.041440 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":1,
+    "title":"Mexico",
+    "city_or_area":"Puebla",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.133208,19.432608 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":1,
+    "title":"Mexico",
+    "city_or_area":"Mexico City",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.315515,45.440847 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":2,
+    "title":"Venice",
+    "city_or_area":"Venice",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036871,38.907192 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":3,
+    "title":"Washington, D.C.",
+    "city_or_area":"Washington",
+    "country":"United States",
+    "state":"D.C."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -25.675594,37.741249 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":4,
+    "title":"Azores",
+    "city_or_area":"Azores",
+    "country":"Portugal",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.629798,41.878114 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":5,
+    "title":"Chicago",
+    "city_or_area":"Chicago",
+    "country":"United States",
+    "state":"Illinois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.984219,14.599512 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":7,
+    "title":"Philippines",
+    "city_or_area":"Manila",
+    "country":"Philippines",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.619989,15.079409 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":7,
+    "title":"Philippines",
+    "city_or_area":"Pampanga",
+    "country":"Philippines",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.885437,10.315699 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":7,
+    "title":"Philippines",
+    "city_or_area":"Cebu",
+    "country":"Philippines",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.971249,40.783060 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":8,
+    "title":"Disappearing Manhattan",
+    "city_or_area":"Manhattan, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.861243,6.927079 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":9,
+    "title":"Sri Lanka",
+    "city_or_area":"Colombo",
+    "country":"Sri Lanka",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.629664,10.823099 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":10,
+    "title":"Vietnam: There's No Place Like Home",
+    "city_or_area":"Ho Chi Minh City",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.338047,15.880058 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":10,
+    "title":"Vietnam: There's No Place Like Home",
+    "city_or_area":"H·ªôi An",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.669265,-33.448890 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":11,
+    "title":"Chile",
+    "city_or_area":"Santiago",
+    "country":"Chile",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.906269,-41.810147 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":11,
+    "title":"Chile",
+    "city_or_area":"Patagonia",
+    "country":"Chile",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963058,-37.813628 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":12,
+    "title":"Australia",
+    "city_or_area":"Melbourne",
+    "country":"Australia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.612189,39.290385 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":13,
+    "title":"Rust Belt",
+    "city_or_area":"Baltimore",
+    "country":"United States",
+    "state":"Maryland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.045754,42.331427 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":13,
+    "title":"Rust Belt",
+    "city_or_area":"Detroit",
+    "country":"United States",
+    "state":"Michigan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.878369,42.886447 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":13,
+    "title":"Rust Belt",
+    "city_or_area":"Buffalo",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419416,37.774929 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":15,
+    "title":"San Francisco",
+    "city_or_area":"San Francisco",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.501765,13.756331 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":16,
+    "title":"Thailand",
+    "city_or_area":"Bangkok",
+    "country":"Thailand",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.338088,7.951933 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":16,
+    "title":"Thailand",
+    "city_or_area":"Phuket",
+    "country":"Thailand",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.559956,45.661411 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":17,
+    "title":"Montana",
+    "city_or_area":"Livingston",
+    "country":"United States",
+    "state":"Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.150201,40.579532 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":19,
+    "title":"New York Outer Boroughs",
+    "city_or_area":"Staten Island, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.794852,40.728224 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":19,
+    "title":"New York Outer Boroughs",
+    "city_or_area":"Queens, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.944158,40.678178 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":19,
+    "title":"New York Outer Boroughs",
+    "city_or_area":"Brooklyn, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.864827,40.844782 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":19,
+    "title":"New York Outer Boroughs",
+    "city_or_area":"The Bronx, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.012893,40.120875 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":5,
+    "ep":20,
+    "title":"Sardinia",
+    "city_or_area":"Sardinia",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.519870,8.982379 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":1,
+    "title":"Panama",
+    "city_or_area":"Panama City",
+    "country":"Panama",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.978359,41.008238 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":2,
+    "title":"Istanbul",
+    "city_or_area":"Istanbul",
+    "country":"Turkey",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.932644,48.202047 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":3,
+    "title":"Brittany",
+    "city_or_area":"Brittany",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.437800,50.075538 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":4,
+    "title":"Prague",
+    "city_or_area":"Prague",
+    "country":"Czech Republic",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.961289,41.920902 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":5,
+    "title":"Hudson Valley, NY",
+    "city_or_area":"Hudson Valley",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.467838,-0.180653 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":6,
+    "title":"Ecuador",
+    "city_or_area":"Quito",
+    "country":"Ecuador",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.922359,-2.170998 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":6,
+    "title":"Ecuador",
+    "city_or_area":"Guayaquil",
+    "country":"Ecuador",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.534967,45.803775 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":8,
+    "title":"Harbin, China",
+    "city_or_area":"Harbin",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.211644,44.014494 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":9,
+    "title":"Provence",
+    "city_or_area":"Provence",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.458313,11.940419 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":10,
+    "title":"Vietnam: Central Highlands",
+    "city_or_area":"Dalat",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.834160,21.027764 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":10,
+    "title":"Vietnam: Central Highlands",
+    "city_or_area":"Hanoi",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.108929,44.103691 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":12,
+    "title":"Maine",
+    "city_or_area":"Rockland",
+    "country":"United States",
+    "state":"Maine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.256819,43.659099 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":12,
+    "title":"Maine",
+    "city_or_area":"Portland",
+    "country":"United States",
+    "state":"Maine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":14,
+    "title":"Caribbean Island Hopping",
+    "city_or_area":"St. Vincent and the Grenadines",
+    "country":"St. Vincent and the Grenadines",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.227231,13.011706 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":14,
+    "title":"Caribbean Island Hopping",
+    "city_or_area":"Bequia",
+    "country":"St. Vincent and the Grenadines",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.352710,42.368370 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":15,
+    "title":"US Heartland",
+    "city_or_area":"Livonia",
+    "country":"United States",
+    "state":"Michigan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.998794,39.961176 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":15,
+    "title":"US Heartland",
+    "city_or_area":"Columbus",
+    "country":"United States",
+    "state":"Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.265011,44.977753 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":15,
+    "title":"US Heartland",
+    "city_or_area":"Minneapolis",
+    "country":"United States",
+    "state":"Minnesota"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.990251,39.739236 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":15,
+    "title":"US Heartland",
+    "city_or_area":"Denver",
+    "country":"United States",
+    "state":"Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.743061,30.267153 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":15,
+    "title":"US Heartland",
+    "city_or_area":"Austin",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.906474,43.038902 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":15,
+    "title":"US Heartland",
+    "city_or_area":"Milwaukee",
+    "country":"United States",
+    "state":"Wisconsin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.760524,6.290743 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":16,
+    "title":"Liberia",
+    "city_or_area":"Monrovia",
+    "country":"Liberia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.367219,6.750906 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":16,
+    "title":"Liberia",
+    "city_or_area":"Robertsport",
+    "country":"Liberia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.271083,10.850516 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":17,
+    "title":"Kerala, India",
+    "city_or_area":"Kerala",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.270783,25.204849 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":19,
+    "title":"Dubai",
+    "city_or_area":"Dubai",
+    "country":"United Arab Emirates",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496366,41.902783 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":20,
+    "title":"Rome",
+    "city_or_area":"Rome",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.501777,33.893791 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":21,
+    "title":"Back to Beirut",
+    "city_or_area":"Beirut",
+    "country":"Lebanon",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856614 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":24,
+    "title":"100th Episode - Paris",
+    "city_or_area":"Paris",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.703790,40.416775 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":6,
+    "ep":25,
+    "title":"Madrid",
+    "city_or_area":"Madrid",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.307433,18.594395 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":1,
+    "title":"Haiti",
+    "city_or_area":"Port-au-Prince",
+    "country":"Haiti",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.855173,13.355009 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":2,
+    "title":"Cambodia",
+    "city_or_area":"Siem Reap",
+    "country":"Cambodia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.355916,10.536089 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":2,
+    "title":"Cambodia",
+    "city_or_area":"Kep",
+    "country":"Cambodia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.928210,11.556374 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":2,
+    "title":"Cambodia",
+    "city_or_area":"Phnom Penh",
+    "country":"Cambodia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.164035,10.594242 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":2,
+    "title":"Cambodia",
+    "city_or_area":"Kampot",
+    "country":"Cambodia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.236174,12.114993 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":3,
+    "title":"Nicaragua",
+    "city_or_area":"Managua",
+    "country":"Nicaragua",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.956001,11.934407 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":3,
+    "title":"Nicaragua",
+    "city_or_area":"Granada",
+    "country":"Nicaragua",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.363020,13.085114 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":3,
+    "title":"Nicaragua",
+    "city_or_area":"Esteli",
+    "country":"Nicaragua",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373819,48.208174 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":4,
+    "title":"Vienna",
+    "city_or_area":"Vienna",
+    "country":"Austria",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.852371,36.728115 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":5,
+    "title":"Ozarks",
+    "city_or_area":"West Plains",
+    "country":"Missouri",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.490179,-1.455729 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":6,
+    "title":"Brazil (the Amazon)",
+    "city_or_area":"Bel√©m",
+    "country":"Brazil",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.058880,42.360082 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":7,
+    "title":"Boston",
+    "city_or_area":"Boston",
+    "country":"Massachusetts",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.354376,43.062096 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":8,
+    "title":"Japan: Hokkaido",
+    "city_or_area":"Sapporo",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.366596,23.113592 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":9,
+    "title":"Cuba",
+    "city_or_area":"Havana",
+    "country":"Cuba",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.543873,22.198745 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":10,
+    "title":"Macau",
+    "city_or_area":"Macau",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.268124,40.851775 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":11,
+    "title":"Naples",
+    "city_or_area":"Naples",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.208099,42.260520 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":12,
+    "title":"El Bulli",
+    "city_or_area":"Roses, Catalonia",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.498645,34.156442 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":13,
+    "title":"US Desert",
+    "city_or_area":"Pioneertown",
+    "country":"California",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.313066,34.134728 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":13,
+    "title":"US Desert",
+    "city_or_area":"Joshua Tree",
+    "country":"California",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.412790,33.739744 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":13,
+    "title":"US Desert",
+    "city_or_area":"Rancho Mirage",
+    "country":"California",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.173894,33.680300 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":13,
+    "title":"US Desert",
+    "city_or_area":"Coachella",
+    "country":"California",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.102417,44.952117 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":14,
+    "title":"Ukraine",
+    "city_or_area":"Crimea",
+    "country":"Ukraine",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.221899,51.276303 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":14,
+    "title":"Ukraine",
+    "city_or_area":"Chernobyl",
+    "country":"Ukraine",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.387195,36.410339 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":15,
+    "title":"Kurdistan",
+    "city_or_area":"Iraqi Kurdistan",
+    "country":"Iraq",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":15,
+    "title":"Kurdistan",
+    "city_or_area":"Turkish Kurdistan",
+    "country":"Turkey",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.071532,29.951066 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":16,
+    "title":"Cajun Country",
+    "city_or_area":"New Orleans",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.899284,30.273532 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":16,
+    "title":"Cajun Country",
+    "city_or_area":"Breaux Bridge",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.152852,29.984092 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":7,
+    "ep":16,
+    "title":"Cajun Country",
+    "city_or_area":"Metairie",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.837018,-19.831595 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":1,
+    "title":"Mozambique",
+    "city_or_area":"Beira",
+    "country":"Mozambique",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.732331,-15.036449 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":1,
+    "title":"Mozambique",
+    "city_or_area":"Mozambique Island",
+    "country":"Mozambique",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.573175,-25.969248 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":1,
+    "title":"Mozambique",
+    "city_or_area":"Maputo",
+    "country":"Mozambique",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.578567,39.099727 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":2,
+    "title":"Kansas City",
+    "city_or_area":"Kansas City",
+    "country":"Missouri",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.627464,39.114053 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":2,
+    "title":"Kansas City",
+    "city_or_area":"Kansas City",
+    "country":"Kansas",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.231365,44.119371 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":3,
+    "title":"Croatian Coast",
+    "city_or_area":"Zadar",
+    "country":"Croatia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.827861,45.335951 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":3,
+    "title":"Croatian Coast",
+    "city_or_area":"Motovun",
+    "country":"Croatia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.923255,43.817637 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":3,
+    "title":"Croatian Coast",
+    "city_or_area":"Skradin",
+    "country":"Croatia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.139337,38.722252 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":4,
+    "title":"Lisbon",
+    "city_or_area":"Lisbon",
+    "country":"Portugal",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691706,35.689487 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":5,
+    "title":"Japan: Cook It Raw",
+    "city_or_area":"Tokyo",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.314627,36.302624 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":5,
+    "title":"Japan: Cook It Raw",
+    "city_or_area":"Kaga, Ishikawa",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.656205,36.561325 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":5,
+    "title":"Japan: Cook It Raw",
+    "city_or_area":"Kanazawa, Ishikawa",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.565892,36.514427 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":5,
+    "title":"Japan: Cook It Raw",
+    "city_or_area":"Hakusan City, Ishikawa",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.938379,60.169856 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":6,
+    "title":"Finland",
+    "city_or_area":"Helsinki",
+    "country":"Finland",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.596371,31.866743 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":7,
+    "title":"Baja",
+    "city_or_area":"Ensenada, Baja California Norte",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.038247,32.514947 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":7,
+    "title":"Baja",
+    "city_or_area":"Tijuana, Baja California Norte",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.332679,5.416393 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":8,
+    "ep":8,
+    "title":"Penang",
+    "city_or_area":"Penang",
+    "country":"Malaysia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.743061,30.267153 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":1,
+    "title":"Austin",
+    "city_or_area":"Austin",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.209296,-33.868820 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":2,
+    "title":"Sydney",
+    "city_or_area":"Sydney",
+    "country":"Australia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.342616,44.494887 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":4,
+    "title":"Emilia Romagna",
+    "city_or_area":"Bologna",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.088044,45.020027 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":4,
+    "title":"Emilia Romagna",
+    "city_or_area":"Polesine Parmense",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.925227,44.647128 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":4,
+    "title":"Emilia Romagna",
+    "city_or_area":"Modena",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.962496,47.195673 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Morey-Saint-Denis",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.094861,47.777121 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Pacy-sur-Arman√ßon",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.840004,47.026030 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Beaune",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.950320,47.137985 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Nuits-Saint-Georges",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.573781,47.798202 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Auxerre",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.607982,47.865273 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Yonne",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.995663,47.695641 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Noyers",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.746143,47.465674 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"V√©zelay",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.765224,47.459395 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":5,
+    "title":"Burgundy",
+    "city_or_area":"Saint-P√®re",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.172896,-22.906847 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":7,
+    "title":"Rio",
+    "city_or_area":"Rio de Janeiro",
+    "country":"Brazil",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.931212,18.486058 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":9,
+    "title":"Dominican Republic",
+    "city_or_area":"Santo Domingo",
+    "country":"Dominican Republic",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.249945,19.289455 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":9,
+    "title":"NA",
+    "city_or_area":"Playa Rincon",
+    "country":"Dominican Republic",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.338766,19.203076 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":9,
+    "title":"NA",
+    "city_or_area":"Saman√°",
+    "country":"Dominican Republic",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.944158,40.678178 ]
+    },
+    "properties": {
+    "show":"No Reservations",
+    "season":9,
+    "ep":10,
+    "title":"Brooklyn",
+    "city_or_area":"Brooklyn, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":1,
+    "title":"Singapore",
+    "city_or_area":"Singapore",
+    "country":"Singapore",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005973,40.712775 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":2,
+    "title":"New York",
+    "city_or_area":"New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496366,41.902783 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":3,
+    "title":"Rome",
+    "city_or_area":"Rome",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.191790,25.761680 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":4,
+    "title":"Miami",
+    "city_or_area":"Miami",
+    "country":"United States",
+    "state":"Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":5,
+    "title":"Hong Kong",
+    "city_or_area":"Hong Kong",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567256,45.501689 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":6,
+    "title":"Montreal",
+    "city_or_area":"Montreal, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.895168,52.370216 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":7,
+    "title":"Amsterdam",
+    "city_or_area":"Amsterdam",
+    "country":"Netherlands",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419416,37.774929 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":8,
+    "title":"San Francisco",
+    "city_or_area":"San Francisco",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":9,
+    "title":"London",
+    "city_or_area":"London",
+    "country":"England, United Kingdom",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.243685,34.052234 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":1,
+    "ep":10,
+    "title":"Los Angeles",
+    "city_or_area":"Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.629798,41.878114 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":1,
+    "title":"Chicago",
+    "city_or_area":"Chicago",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856614 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":2,
+    "title":"Paris",
+    "city_or_area":"Paris",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.165222,39.952584 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":3,
+    "title":"Philadelphia",
+    "city_or_area":"Philadelphia",
+    "country":"United States",
+    "state":"Pennsylvania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.633309,-23.550520 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":4,
+    "title":"S√£o Paulo",
+    "city_or_area":"S√£o Paulo",
+    "country":"Brazil",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.383184,43.653226 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":5,
+    "title":"Toronto",
+    "city_or_area":"Toronto",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.260310,53.349805 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":6,
+    "title":"Dublin",
+    "city_or_area":"Dublin",
+    "country":"Ireland",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.387982,33.748995 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":7,
+    "title":"Atlanta",
+    "city_or_area":"Atlanta",
+    "country":"United States",
+    "state":"Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.565418,25.032969 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":8,
+    "title":"Taipei",
+    "city_or_area":"Taipei",
+    "country":"Taiwan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.071532,29.951066 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":9,
+    "title":"New Orleans",
+    "city_or_area":"New Orleans",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.332071,47.606209 ]
+    },
+    "properties": {
+    "show":"The Layover",
+    "season":2,
+    "ep":10,
+    "title":"Seattle",
+    "city_or_area":"Seattle",
+    "country":"United States",
+    "state":"Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.195132,16.866069 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":1,
+    "title":"Myanmar",
+    "city_or_area":"Yangon",
+    "country":"Myanmar",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.858546,21.171727 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":1,
+    "title":"Myanmar",
+    "city_or_area":"Bagan",
+    "country":"Myanmar",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.302358,34.060988 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":2,
+    "title":"Los Angeles",
+    "city_or_area":"Koreatown, Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.469483,33.985047 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":2,
+    "title":"Los Angeles",
+    "city_or_area":"Venice, Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.284820,34.106331 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":2,
+    "title":"Los Angeles",
+    "city_or_area":"Los Feliz, Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.159085,34.020798 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":2,
+    "title":"Los Angeles",
+    "city_or_area":"Whittier Boulevard, East Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.087749,3.271990 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":3,
+    "title":"Colombia",
+    "city_or_area":"Meta",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.331113,2.043924 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":3,
+    "title":"Colombia",
+    "city_or_area":"Guaviare",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.072092,4.710989 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":3,
+    "title":"Colombia",
+    "city_or_area":"Bogot√°",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641271,3.800889 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":3,
+    "title":"Colombia",
+    "city_or_area":"Valle del Cauca",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.520483,11.354774 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":3,
+    "title":"Colombia",
+    "city_or_area":"La Guajira",
+    "country":"Colombia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567256,45.501689 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":4,
+    "title":"Quebec",
+    "city_or_area":"Montreal, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.207981,46.813878 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":4,
+    "title":"Quebec",
+    "city_or_area":"Quebec City, Quebec",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.833954,35.759465 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":5,
+    "title":"Morocco (Tangier)",
+    "city_or_area":"Tangier",
+    "country":"Morocco",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.834237,35.759820 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":6,
+    "title":"Libya",
+    "city_or_area":"Tripoli",
+    "country":"Libya",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.267899,32.650951 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":6,
+    "title":"Libya",
+    "city_or_area":"Al Khums",
+    "country":"Libya",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.099256,32.325588 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":6,
+    "title":"Libya",
+    "city_or_area":"Misrata",
+    "country":"Libya",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.100133,32.459968 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":6,
+    "title":"Libya",
+    "city_or_area":"Murqub",
+    "country":"Libya",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.042754,-12.046373 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":7,
+    "title":"Peru",
+    "city_or_area":"Lima",
+    "country":"Peru",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.844298,-6.776597 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":7,
+    "title":"Peru",
+    "city_or_area":"Chiclayo",
+    "country":"Peru",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.220455,-1.658501 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":8,
+    "title":"Congo",
+    "city_or_area":"Goma, North Kivu",
+    "country":"Democratic Republic of the Congo",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.200773,0.518530 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":1,
+    "ep":8,
+    "title":"Congo",
+    "city_or_area":"Kisangani, Orientale",
+    "country":"Democratic Republic of the Congo",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.213710,31.768319 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Jerusalem",
+    "country":"Israel",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.302723,31.946570 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Aida, West Bank",
+    "country":"Palestine",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.202442,31.705382 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Bethlehem",
+    "country":"Palestine",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.116514,31.790605 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Ein Rafa",
+    "country":"Israel",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.308826,31.354676 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Gaza",
+    "country":"Palestine",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.646547,31.556985 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Bror Hayil",
+    "country":"Israel",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.203418,31.903764 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":2,
+    "title":"Jerusalem",
+    "city_or_area":"Ramallah",
+    "country":"Palestine",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.598557,37.177336 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":3,
+    "title":"Spain",
+    "city_or_area":"Granada, Andalucia",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.937799,35.686975 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":4,
+    "title":"New Mexico",
+    "city_or_area":"Santa Fe",
+    "country":"United States",
+    "state":"New Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.720311,35.506976 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":4,
+    "title":"New Mexico",
+    "city_or_area":"Zia Pueblo",
+    "country":"United States",
+    "state":"New Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.650422,35.084386 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":4,
+    "title":"New Mexico",
+    "city_or_area":"Alberquerque",
+    "country":"United States",
+    "state":"New Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.568337,55.676097 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":5,
+    "title":"Copenhagen",
+    "city_or_area":"Copenhagen",
+    "country":"Denmark",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.015356,37.599994 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":6,
+    "title":"Sicily",
+    "city_or_area":"NA",
+    "country":"Sicily",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.047305,-26.204103 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":7,
+    "title":"South Africa",
+    "city_or_area":"Johannesburg",
+    "country":"South Africa",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691706,35.689487 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":8,
+    "title":"Tokyo",
+    "city_or_area":"Tokyo",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.045754,42.331427 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":2,
+    "ep":9,
+    "title":"Detroit",
+    "city_or_area":"Detroit",
+    "country":"United States",
+    "state":"Michigan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.872264,31.633979 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":2,
+    "title":"Punjab, India",
+    "city_or_area":"Amritsar, Punjab",
+    "country":"India",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.139830,36.169941 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":3,
+    "title":"Las Vegas",
+    "city_or_area":"Las Vegas",
+    "country":"United States",
+    "state":"Nevada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.835659,45.764043 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":4,
+    "title":"Lyon",
+    "city_or_area":"Lyon",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.133208,19.432608 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":5,
+    "title":"Mexico City",
+    "city_or_area":"Mexico City",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.726589,17.073184 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":5,
+    "title":"Mexico City",
+    "city_or_area":"Oaxaca",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.221566,18.924209 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":5,
+    "title":"Mexico City",
+    "city_or_area":"Cuernavaca",
+    "country":"Mexico",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.617300,55.755826 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":6,
+    "title":"Russia",
+    "city_or_area":"Moscow",
+    "country":"Russia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.335099,59.934280 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":6,
+    "title":"Russia",
+    "city_or_area":"St. Petersburg",
+    "country":"Russia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.184810,32.298757 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":7,
+    "title":"Mississippi Delta",
+    "city_or_area":"Jackson",
+    "country":"United States",
+    "state":"Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.726209,33.839001 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":7,
+    "title":"Mississippi Delta",
+    "city_or_area":"Merigold",
+    "country":"United States",
+    "state":"Mississippi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.993128,18.787747 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":8,
+    "title":"Thailand",
+    "city_or_area":"Chiang Mai Province",
+    "country":"Thailand",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.700727,-12.579738 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":3,
+    "ep":9,
+    "title":"Bahia, Brazil",
+    "city_or_area":"Bahia",
+    "country":"Brazil",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.473702,31.230390 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":2,
+    "title":"Shanghai",
+    "city_or_area":"Shanghai",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.864827,40.844782 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":3,
+    "title":"The Bronx",
+    "city_or_area":"The Bronx, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.575926,-25.263740 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":4,
+    "title":"Paraguay",
+    "city_or_area":"Asunci√≥n",
+    "country":"Paraguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.590863,16.463712 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":5,
+    "title":"Vietnam",
+    "city_or_area":"Hu·∫ø",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.963409,16.794347 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":5,
+    "title":"Vietnam",
+    "city_or_area":"Qu·∫£ng Tr·ªã",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.362120,-6.135730 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":6,
+    "title":"Tanzania",
+    "city_or_area":"Zanzibar",
+    "country":"Tanzania",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.685651,-2.153994 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":6,
+    "title":"Tanzania",
+    "city_or_area":"Serengeti",
+    "country":"Tanzania",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.587670,-3.161752 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":6,
+    "title":"Tanzania",
+    "city_or_area":"Ngorongoro Crater",
+    "country":"Tanzania",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.667983,32.654627 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":7,
+    "title":"Iran",
+    "city_or_area":"Isfana",
+    "country":"Iran",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.388974,35.689197 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":7,
+    "title":"Iran",
+    "city_or_area":"Tehran",
+    "country":"Iran",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.178643,42.058441 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":8,
+    "title":"Massachusetts",
+    "city_or_area":"Provincetown",
+    "country":"United States",
+    "state":"Massachusetts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.615117,42.530599 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":8,
+    "title":"Massachusetts",
+    "city_or_area":"Franklin County",
+    "country":"United States",
+    "state":"Massachusetts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.447632,18.171276 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":9,
+    "title":"Jamaica",
+    "city_or_area":"Port Antonio",
+    "country":"Jamaica",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.938379,18.403475 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":4,
+    "ep":9,
+    "title":"Jamaica",
+    "city_or_area":"Oracabessa",
+    "country":"Jamaica",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.977969,37.566535 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":2,
+    "title":"Korea",
+    "city_or_area":"Seoul",
+    "country":"South Korea",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.191790,25.761680 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":3,
+    "title":"Miami",
+    "city_or_area":"Miami",
+    "country":"United States",
+    "state":"Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.251806,55.864237 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":4,
+    "title":"Scotland",
+    "city_or_area":"Glasgow",
+    "country":"Scotland, United Kingdom",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.507905,-18.879190 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":5,
+    "title":"Madagascar",
+    "city_or_area":"Antananarivo",
+    "country":"Madagascar",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.106247,39.757620 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":6,
+    "title":"New Jersey",
+    "city_or_area":"Barnegat Light",
+    "country":"United States",
+    "state":"New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.422927,39.364283 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":6,
+    "title":"New Jersey",
+    "city_or_area":"Atlantic City",
+    "country":"United States",
+    "state":"New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.970138,40.850933 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":6,
+    "title":"New Jersey",
+    "city_or_area":"Fort Lee",
+    "country":"United States",
+    "state":"New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.012082,40.220391 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":6,
+    "title":"New Jersey",
+    "city_or_area":"Asbury Park",
+    "country":"United States",
+    "state":"New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.119620,39.925946 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":6,
+    "title":"New Jersey",
+    "city_or_area":"Camden",
+    "country":"United States",
+    "state":"New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.040235,47.497912 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":7,
+    "title":"Budapest",
+    "city_or_area":"Budapest",
+    "country":"Hungary",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.858333,21.306944 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":8,
+    "title":"Hawaii",
+    "city_or_area":"Honolulu",
+    "country":"United States",
+    "state":"Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.022630,21.144393 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":8,
+    "title":"Hawaii",
+    "city_or_area":"Molokai",
+    "country":"United States",
+    "state":"Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.501777,33.893791 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":5,
+    "ep":9,
+    "title":"Beirut",
+    "city_or_area":"Beirut",
+    "country":"Lebanon",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.366596,23.113592 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":2,
+    "title":"Cuba",
+    "city_or_area":"Havana",
+    "country":"Cuba",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.830154,20.016930 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":2,
+    "title":"Cuba",
+    "city_or_area":"Santiago",
+    "country":"Cuba",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.369780,43.296482 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":3,
+    "title":"Marseille, France",
+    "city_or_area":"Marseille",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.680932,26.212401 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":4,
+    "title":"Okinawa",
+    "city_or_area":"Okinawa, Japan",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.291308,37.827178 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":5,
+    "title":"Bay Area",
+    "city_or_area":"San Francisco Bay Area",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.757761,8.980603 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":6,
+    "title":"Ethiopia",
+    "city_or_area":"Addis Ababa",
+    "country":"Ethiopia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.359293,1.553504 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":7,
+    "title":"Borneo",
+    "city_or_area":"Kuching",
+    "country":"Malaysia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.978359,41.008238 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":8,
+    "title":"Istanbul",
+    "city_or_area":"Istanbul",
+    "country":"Turkey",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.931051,32.776475 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":9,
+    "title":"Charleston, SC",
+    "city_or_area":"Charleston",
+    "country":"United States",
+    "state":"South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.447557,33.753777 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":6,
+    "ep":9,
+    "title":"Charleston, SC",
+    "city_or_area":"Hemingway",
+    "country":"United States",
+    "state":"South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.984219,14.599512 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":2,
+    "title":"Manila, Philippines",
+    "city_or_area":"Manila",
+    "country":"Philippines",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.629798,41.878114 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":3,
+    "title":"Chicago",
+    "city_or_area":"Chicago",
+    "country":"United States",
+    "state":"Illinois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.377673,37.103566 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":4,
+    "title":"The Greek Islands",
+    "city_or_area":"Naxos",
+    "country":"Greece",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.534778,46.003823 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":5,
+    "title":"Montana",
+    "city_or_area":"Butte",
+    "country":"United States",
+    "state":"Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.974547,46.931145 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":5,
+    "title":"Montana",
+    "city_or_area":"Powell County",
+    "country":"United States",
+    "state":"Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.833996,45.383294 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":5,
+    "title":"Montana",
+    "city_or_area":"Crow Indian Reservation",
+    "country":"United States",
+    "state":"Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.775387,41.789233 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":6,
+    "title":"Tbilisi, Georgia",
+    "city_or_area":"Tbilisi",
+    "country":"Georgia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.467686,14.716677 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":7,
+    "title":"Senegal",
+    "city_or_area":"Dakar",
+    "country":"Senegal",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.960279,50.937531 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":7,
+    "ep":8,
+    "title":"Cologne, Germany",
+    "city_or_area":"Cologne",
+    "country":"Germany",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.834160,21.027764 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":2,
+    "title":"Hanoi",
+    "city_or_area":"Hanoi",
+    "country":"Vietnam",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.781602,36.162664 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":3,
+    "title":"Nashville",
+    "city_or_area":"Nashville",
+    "country":"United States",
+    "state":"Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.066801,30.572815 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":4,
+    "title":"Sichuan",
+    "city_or_area":"Chengdu, Sichuan",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.765678,29.552115 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":4,
+    "title":"Sichuan",
+    "city_or_area":"Leshan, Sichuan",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":5,
+    "title":"London",
+    "city_or_area":"London",
+    "country":"England, United Kingdom",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.369803,29.760427 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":6,
+    "title":"Houston",
+    "city_or_area":"Houston",
+    "country":"United States",
+    "state":"Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.625573,36.594682 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":7,
+    "title":"Japan",
+    "city_or_area":"Ishikawa Prefecture",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.883565,36.565725 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":7,
+    "title":"Japan",
+    "city_or_area":"Tochigi Prefecture",
+    "country":"Japan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.381559,-34.603684 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":8,
+    "title":"Buenos Aires",
+    "city_or_area":"Buenos Aires",
+    "country":"Argentina",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":9,
+    "title":"Minas Gerais, Brazil",
+    "city_or_area":"Minas Gerais",
+    "country":"Brazil",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496366,41.902783 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":8,
+    "ep":10,
+    "title":"Rome",
+    "city_or_area":"Rome",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.243685,34.052234 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":2,
+    "title":"Los Angeles",
+    "city_or_area":"Los Angeles",
+    "country":"United States",
+    "state":"California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.981231,43.318334 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":3,
+    "title":"San Sebastian",
+    "city_or_area":"San Sebastian",
+    "country":"Spain",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.621621,20.065623 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":4,
+    "title":"Laos",
+    "city_or_area":"Luang Prabang",
+    "country":"Laos",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.794852,40.728224 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":5,
+    "title":"Queens",
+    "city_or_area":"Queens, New York",
+    "country":"United States",
+    "state":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.881828,-77.628466 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":6,
+    "title":"Antarctica",
+    "city_or_area":"Lake Hoare",
+    "country":"Antarctica",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.272892,-89.997553 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":6,
+    "title":"Antarctica",
+    "city_or_area":"Amundsen-Scott South Pole Station",
+    "country":"Antarctica",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.371388,23.185608 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":7,
+    "title":"Oman",
+    "city_or_area":"Jebel Akhdar",
+    "country":"Oman",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.405923,23.585890 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":7,
+    "title":"Oman",
+    "city_or_area":"Muscat",
+    "country":"Oman",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.501926,10.654901 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":8,
+    "title":"Trinidad",
+    "city_or_area":"Port Of Spain, Trinidad",
+    "country":"Trinidad and Tobago",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.629105,41.157944 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":9,
+    "ep":9,
+    "title":"Porto, Portugal",
+    "city_or_area":"Porto",
+    "country":"Portugal",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":1,
+    "title":"Singapore",
+    "city_or_area":"Singapore",
+    "country":"Singapore",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.926873,45.983986 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":2,
+    "title":"French Alps",
+    "city_or_area":"Argenti√®re",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.869433,45.923697 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":2,
+    "title":"French Alps",
+    "city_or_area":"Chamonix-Mont-Blanc",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.499153,45.800828 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":2,
+    "title":"French Alps",
+    "city_or_area":"Nus",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.931817,46.033505 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":2,
+    "title":"French Alps",
+    "city_or_area":"Vallorcine",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.379206,6.524379 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":3,
+    "title":"Lagos, Nigeria",
+    "city_or_area":"Lagos",
+    "country":"Nigeria",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.995886,40.440625 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":4,
+    "title":"Pittsburgh",
+    "city_or_area":"Pittsburg",
+    "country":"United States",
+    "state":"Pennsylvania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.861243,6.927079 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":5,
+    "title":"Sri Lanka",
+    "city_or_area":"Colombo",
+    "country":"Sri Lanka",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.025547,9.661498 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":5,
+    "title":"Sri Lanka",
+    "city_or_area":"Jaffna",
+    "country":"Sri Lanka",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.376779,18.010562 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Valle Costero, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.105735,18.465539 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"San Juan, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.468072,18.335325 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Ciales, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.440098,18.126285 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":6,
+    "title":"Puerto Rico",
+    "city_or_area":"Vieques, Puerto Rico",
+    "country":"United States",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.332071,47.606209 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":7,
+    "title":"Seattle",
+    "city_or_area":"Seattle",
+    "country":"United States",
+    "state":"Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.175016,40.351515 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":8,
+    "title":"Southern Italy",
+    "city_or_area":"Lecce",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.689595,40.410981 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":8,
+    "title":"Southern Italy",
+    "city_or_area":"Bernalda",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.470018,40.840472 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":10,
+    "ep":8,
+    "title":"Southern Italy",
+    "city_or_area":"Torre Canne",
+    "country":"Italy",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.690943,37.301225 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":1,
+    "title":"West Virginia",
+    "city_or_area":"War",
+    "country":"United States",
+    "state":"West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.877619,37.739829 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":1,
+    "title":"West Virginia",
+    "city_or_area":"Man",
+    "country":"United States",
+    "state":"West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.352034,39.161203 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":1,
+    "title":"West Virginia",
+    "city_or_area":"Lost Creek",
+    "country":"United States",
+    "state":"West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.584551,37.432891 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":1,
+    "title":"West Virginia",
+    "city_or_area":"Welch",
+    "country":"United States",
+    "state":"West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.040358,39.152320 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":1,
+    "title":"West Virginia",
+    "city_or_area":"Philippi",
+    "country":"United States",
+    "state":"West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.388019,-34.452252 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":2,
+    "title":"Uruguay",
+    "city_or_area":"Santa Lucia",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.164531,-34.901113 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":2,
+    "title":"Uruguay",
+    "city_or_area":"Montevideo",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.645146,-34.835915 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":2,
+    "title":"Uruguay",
+    "city_or_area":"Jose Ignacio",
+    "country":"Uruguay",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.705178,47.469784 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":3,
+    "title":"Newfoundland",
+    "city_or_area":"Petty Harbour, Newfoundland",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.712577,47.561510 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":3,
+    "title":"Newfoundland",
+    "city_or_area":"St. John's, Newfoundland",
+    "country":"Canada",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.315900,46.885200 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":3,
+    "title":"Newfoundland",
+    "city_or_area":"St. Pierre and Miquelon",
+    "country":"France",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.499103,40.179186 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":4,
+    "title":"Armenia",
+    "city_or_area":"Yerevan",
+    "country":"Armenia",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":5,
+    "title":"Hong Kong",
+    "city_or_area":"Hong Kong",
+    "country":"China",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.404954,52.520007 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":6,
+    "title":"Berlin",
+    "city_or_area":"Berlin",
+    "country":"Germany",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.419299,30.633809 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":7,
+    "title":"Cajun Mardi Gras",
+    "city_or_area":"Mamou",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.046509,30.419920 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":7,
+    "title":"Cajun Mardi Gras",
+    "city_or_area":"Grand Coteau",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.019843,30.224090 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":7,
+    "title":"Cajun Mardi Gras",
+    "city_or_area":"Lafayette",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.081509,30.533530 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":7,
+    "title":"Cajun Mardi Gras",
+    "city_or_area":"Opelousas",
+    "country":"United States",
+    "state":"Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.639286,27.472792 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":8,
+    "title":"Bhutan",
+    "city_or_area":"Thimphu",
+    "country":"Bhutan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.879746,27.592087 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":8,
+    "title":"Bhutan",
+    "city_or_area":"Punakha",
+    "country":"Bhutan",
+    "state":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.677305,27.641839 ]
+    },
+    "properties": {
+    "show":"Parts Unknown",
+    "season":11,
+    "ep":8,
+    "title":"Bhutan",
+    "city_or_area":"Bumthang",
+    "country":"Bhutan",
+    "state":"NA"
+    }
+  }
+]
+}
