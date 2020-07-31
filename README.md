@@ -7,7 +7,9 @@
 )
 
 #### Contacts at Mapbox
-- Lo Bénichou (They/Them): lo.benichou@mapbox.com
-- Casey Miner (She/Her): casey.miner@mapbox.com
-- Lemuel Harrison Thornton III (He/Him): lemuel.thornton@mapbox.com
 - Caren Plummer (She/Her): caren.plummer@mapbox.com
+
+#### Mapbox Alumni
+- Lo Bénichou (They/Them): [@LoBenichou](https://twitter.com/LoBenichou)
+- Casey Miner (She/Her): [@reedminer](https://twitter.com/reedminer)
+- Lemuel Harrison Thornton III (He/Him): [@lemwerks](https://twitter.com/lemwerks)
